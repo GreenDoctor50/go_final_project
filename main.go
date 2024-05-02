@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/greendoctor50/go_final_project/hadlers"
+	"github.com/greendoctor50/go_final_project/tree/dev/hadlers"
 	"github.com/go-chi/chi/v5"
 )
 
